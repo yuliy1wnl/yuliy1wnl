@@ -1,12 +1,37 @@
-<h3>Hi 👋 </h3> 
-I'm yuliy, an AI/ML Engineer (Fresher)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yuliyiwnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuliyiwnl" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mridu626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mridu626" height="30" width="40" /></a>
-<a href="https://instagram.com/mridu6.26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mridu626" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/june1v5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yuliyiwnl" height="30" width="40" /></a>
-</p>
+<h3>Hi 👋 I'm Mridupawan Gogoi</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+MCA graduate specialising in NLP, RAG systems, and transformer fine-tuning.
+I build production-grade AI systems end-to-end — from dataset auditing and model training to deployment and evaluation.
+
+- Currently working on: Agentic RAG systems and LLM applications
+- Stack: PyTorch · LangGraph · Qdrant · FastAPI · MLflow · Hugging Face
+- Based in Bangalore, India
+- Open to ML Engineer / NLP Engineer / GenAI Engineer roles
+- Portfolio:(https://mridu626.vercel.app)
+
+---
+
+<h3>🛠️ Stack</h3>
+
+**Languages:** Python · SQL
+
+**ML & Deep Learning:** PyTorch · Hugging Face Transformers · RoBERTa · BERT · Mixed-Precision Training
+
+**LLM & RAG:** LangChain · LangGraph · Qdrant · BM25 · Hybrid Retrieval · Cross-Encoder Reranking · AST Chunking · Ollama · LangSmith
+
+**MLOps & Evaluation:** MLflow · RAGAS · OOD Evaluation
+
+**Deployment:** FastAPI · Flask · Docker · Next.js
+
+**Databases:** Qdrant · MySQL
+
+**Tools:** Git · GitHub · Claude Code · tree-sitter
+
+---
+
+<h3>📬 Connect</h3>
+
+<p align="left">
+<a href="https://linkedin.com/in/mridu626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mridu626" height="30" width="40" /></a>
+<a href="https://twitter.com/yuliyiwnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuliyiwnl" height="30" width="40" /></a>
+</p>
