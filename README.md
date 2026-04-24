@@ -11,24 +11,6 @@ I build production-grade AI systems end-to-end — from dataset auditing and mod
 
 ---
 
-<h3>🛠️ Stack</h3>
-
-**Languages:** Python · SQL
-
-**ML & Deep Learning:** PyTorch · Hugging Face Transformers · RoBERTa · BERT · Mixed-Precision Training
-
-**LLM & RAG:** LangChain · LangGraph · Qdrant · BM25 · Hybrid Retrieval · Cross-Encoder Reranking · AST Chunking · Ollama · LangSmith
-
-**MLOps & Evaluation:** MLflow · RAGAS · OOD Evaluation
-
-**Deployment:** FastAPI · Flask · Docker · Next.js
-
-**Databases:** Qdrant · MySQL
-
-**Tools:** Git · GitHub · Claude Code · tree-sitter
-
----
-
 <h3>📬 Connect</h3>
 
 <p align="left">
