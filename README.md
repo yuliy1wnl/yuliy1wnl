@@ -13,4 +13,7 @@ I build production-grade AI systems end-to-end — from dataset auditing and mod
 
 <h3>📬 Connect</h3>
 
-[LinkedIn](https://linkedin.com/in/mridu626) · [Twitter](https://twitter.com/yuliyiwnl) · [Portfolio](https://mridu626.vercel.app)
+<p>
+<a href="https://linkedin.com/in/mridu626" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/yuliyiwnl" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+</p>
